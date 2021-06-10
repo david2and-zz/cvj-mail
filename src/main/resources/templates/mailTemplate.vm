@@ -1,0 +1,31 @@
+<div>
+    <br>
+
+    <h3> Reciba un cordial saludo.</h3>
+    <p>
+
+    <h3>Estimado tutor $adviser_name, a continuacion encontrara la informacion asociada a la solicitud del estudiante:</h3>
+    <p>
+<div style="margin: 20px;">
+    <h3 style="color:#2980B9;">Nombre del estudiante:  </h3>
+    <h3 style="margin-left: 10px;">$student_name</h3>
+
+
+
+        <h3 style="color:#2980B9;">Correo del estudiante:  </h3>
+        <h3 style="margin-left: 10px;">$student_email</h3>
+
+
+
+            <h3 style="color:#2980B9;">Mensaje del estudiante:</h3>
+
+            <h3 style="margin-left: 10px;">$message</h3>
+
+
+</div>
+<h3>Cordialmente, </h3>
+   <p>
+ <img style="width:300px; heigth:auto;" src='cid:escudo'>
+
+    <br>
+</div>
